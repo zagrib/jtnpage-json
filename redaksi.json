@@ -1,1 +1,405 @@
-
+{
+  "title": "REDAKSI JATIMTIMES.COM",
+  "sections": [
+    {
+      "title": "Dewan Redaksi",
+      "groups": [
+        {
+          "position": "Pemimpin Redaksi/Penanggungjawab",
+          "members": ["Heryanto"]
+        },
+        {
+          "position": "Wakil Pemimpin Redaksi",
+          "members": ["Nurlayla Ratri"]
+        },
+        {
+          "position": "Redaktur Pelaksana",
+          "members": ["A.Yahya"]
+        },
+        {
+          "position": "Redaktur",
+          "members": [
+            "Dede Nana",
+            "Yunan Helmy",
+            "Sri Kurnia Mahiruni",
+            "Pipit Anggraeni"
+          ]
+        },
+        {
+          "position": "Wartawan",
+          "members": [
+            "Hendra Saputra",
+            "Anggara Sudiongko",
+            "Riski Wijaya",
+            "Irsya Richa",
+            "Tubagus Ahmad",
+            "Ashaq Lupito",
+            "Prasetyo Lanang"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DAERAH BANYUWANGI",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Nurhadi Joyo", "Suwandi"]
+        }
+      ]
+    },
+    {
+      "title": "BLITAR",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Aunur Rofiq"]
+        }
+      ]
+    },
+    {
+      "title": "BONDOWOSO",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Abror Rosi"]
+        }
+      ]
+    },
+    {
+      "title": "GRESIK",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Syaifuddin Anam"]
+        }
+      ]
+    },
+    {
+      "title": "JEMBER",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Moh Ali Makrus"]
+        },
+        {
+          "position": "Jurnalis",
+          "members": ["Hirna Ramadanianto"]
+        }
+      ]
+    },
+    {
+      "title": "JOMBANG",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Adi Rosul"]
+        }
+      ]
+    },
+    {
+      "title": "KEDIRI",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Bambang Setioko"]
+        },
+        {
+          "position": "Jurnalis",
+          "members": ["Eko Arif S"]
+        }
+      ]
+    },
+    {
+      "title": "LUMAJANG",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": []
+        }
+      ]
+    },
+    {
+      "title": "MALANG",
+      "groups": [
+        {
+          "position": "Jurnalis",
+          "members": [
+            "Anggara Sudiongko",
+            "Hendra Adi Saputra",
+            "Rizky Wijaya",
+            "Tubagus Ody",
+            "Binti Nikmatur",
+            "Ashaq Lupito",
+            "Irsya Richa",
+            "Mutmainah"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MADIUN",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Muhamad Nasir"]
+        }
+      ]
+    },
+    {
+      "title": "NGAWI",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Heri Sumaryanto"]
+        },
+        {
+          "position": "Jurnalis",
+          "members": ["Satria Romadhoni"]
+        }
+      ]
+    },
+    {
+      "title": "SURABAYA",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Muhammad Bahrul Marzuki"]
+        }
+      ]
+    },
+    {
+      "title": "LAMONGAN",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Defit Budiamsyah"]
+        }
+      ]
+    },
+    {
+      "title": "TRENGGALEK",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": []
+        }
+      ]
+    },
+    {
+      "title": "TULUNGAGUNG",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Anang Basori"]
+        },
+        {
+          "position": "Admin",
+          "members": ["Fina Windarti"]
+        },
+        {
+          "position": "Jurnalis",
+          "members": ["Arista Nur Rizki"]
+        }
+      ]
+    },
+    {
+      "title": "TUBAN",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Salamun"]
+        },
+        {
+          "position": "Jurnalis",
+          "members": ["Ahmad Istihar"]
+        }
+      ]
+    },
+    {
+      "title": "SampangTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Abd Syukur"]
+        }
+      ]
+    },
+    {
+      "title": "MagetanTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Basworowati PN"]
+        },
+        {
+          "position": "Wartawan",
+          "members": []
+        }
+      ]
+    },
+    {
+      "title": "MojokertoTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Abdullah musawa"]
+        }
+      ]
+    },
+    {
+      "title": "PamekasanTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Moh Khairul Rozi"]
+        },
+        {
+          "position": "Medsos",
+          "members": ["Haswatun Hasanah"]
+        }
+      ]
+    },
+    {
+      "title": "BangkalanTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Imam Faikli"]
+        }
+      ]
+    },
+    {
+      "title": "SumenepTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": []
+        }
+      ]
+    },
+    {
+      "title": "SidoarjoTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Nur Hidayah"]
+        }
+      ]
+    },
+    {
+      "title": "SitubondoTIMES",
+      "groups": [
+        {
+          "position": "Manajer Area",
+          "members": ["Wisnu Bangun Saputro"]
+        }
+      ]
+    },
+    {
+      "title": "DEPARTMENT",
+      "groups": [
+        {
+          "position": "IT Programmer & Design",
+          "members": ["Bery", "Fitrah Izul Falaq"]
+        },
+        {
+          "position": "Publishing & Social Media",
+          "members": ["Sri Kurnia Mahiruni"]
+        },
+        {
+          "position": "Publishing & Social Media — Anggota",
+          "members": [
+            "Yogi Iqbal",
+            "Ahmad Nur Amin",
+            "Andi Wira"
+          ]
+        },
+        {
+          "position": "Administration & General",
+          "members": [
+            "Irmawati",
+            "Thya Fitria",
+            "Hezza Sukmasita",
+            "Arizal Dian Suprayogi"
+          ]
+        },
+        {
+          "position": "Advertising and Marketing",
+          "members": [
+            "Muslimin",
+            "Hezza Sukmasita",
+            "Mukhlasyin"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JATIM TIMES NETWORK",
+      "groups": [
+        {
+          "position": "Komisaris Utama",
+          "members": ["Lazuardi Firdaus"]
+        },
+        {
+          "position": "Komisaris",
+          "members": ["Ardhian Farrel Maulana"]
+        },
+        {
+          "position": "Direktur Utama",
+          "members": ["Heryanto"]
+        },
+        {
+          "position": "Direktur Keuangan",
+          "members": ["Ida Hidayati"]
+        },
+        {
+          "position": "Manager HRD",
+          "members": ["A Yahya"]
+        },
+        {
+          "position": "Manager Marketing",
+          "members": ["Muslimin"]
+        },
+        {
+          "position": "IT Manager",
+          "members": ["Bery"]
+        },
+        {
+          "position": "Social Media Manager",
+          "members": ["Sri Kurnia Mahiruni"]
+        },
+        {
+          "position": "Penasehat Hukum",
+          "members": [
+            "Wiwid Tuhu Prasetyanto, S.H., M.H",
+            "Awim Dharmawan SH. MH"
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "headOffice": {
+      "address": "Jl. Jend. Ahmad Yani Utara No.10, Balearjosari, Kec. Blimbing, Kota Malang, Jawa Timur 65144.",
+      "phone": "+62-8113787823"
+    },
+    "branchOffice": {
+      "name": "MadiunTIMES",
+      "address": "Jl.Sriagung No.50 Kelun Kota Madiun",
+      "phone": "0822-4447-3889"
+    },
+    "redaction": {
+      "callCenter": "08113787823",
+      "email": "kombis.jatimtimes@gmail.com",
+      "address": "Jl. Ahmad Yani Utara No. 10, Kelurahan Balearjosari, Blimbing, Kota Malang"
+    }
+  },
+  "legal": {
+    "company": "Publishing PT Jatim Times Network",
+    "skKemenkumHam": "AHU-0014500.AH.01.02.Tahun 2023",
+    "siup": "517/0241/35.73.407/2016",
+    "tdp": "130.81.61.00031",
+    "npwp": "75.738.0 24.1-652.000"
+  }
+}
